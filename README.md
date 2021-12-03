@@ -8,3 +8,18 @@ Scikit-Learn.ipynb file gives a brief introduction to Machine Learning(ML) based
 These ML algorithms are trained and tested on Scikit-learn's Provided Breast Cancer Dataset.
 
 Scipy-stats.ipynb file provides a brief introduction to python Library scipy-stats that provides facility for performing Statistical and Mathematical Analysis on data. This file also contains implementation of an important statistical method ANALYSIS OF VARIANCE commonly known as ANOVA on dummy data.
+
+
+## Running-Notebooks
+<br/>
+Run Requirnment.txt using following command for required configuration. <br />
+pip install -r requirements.txt <br/>
+<br/>
+
+To modify elements within the IPython notebooks and to view interactive content, you must first clone or download the repository then run the notebook. More information about notebooks is below  <br />
+
+$ git clone <AAD PATH OF YOUR GITHUB REPOSITRY> <br />
+$ cd notebooks  <br />
+$ jupyter notebook  <br />
+
+Notebooks are tested with Python 3.6.15.
